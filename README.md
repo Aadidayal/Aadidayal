@@ -18,11 +18,11 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/aadi dayal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aadi-dayal-86733831a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/aadi dayal" target="_blank">
-    <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/0tFQh90NaC/)" />
+  <a href="https://leetcode.com/u/0tFQh90NaC/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -49,4 +49,6 @@
 ---
 
 ### 📈 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadidayal&label=Profile%20views&color=0e75b6&style=flat" alt="aadidayal" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aadidayal&label=Profile%20views&color=0e75b6&style=flat" alt="aadidayal" />
+</p>
