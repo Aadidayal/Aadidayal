@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Actively+solving+LeetCode+challenges;Building+real-world+solutions;Always+eager+to+learn+and+grow!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Actively+solving+LeetCode+challenges;Building+real-world+solutions;Always+eager+to+learn+and+grow!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/☕ Java-Advanced-orange?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/🧠 C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧮 C-Basic-grey?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/🌐 HTML-Advanced-red?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/🎨 CSS-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/📜 JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,15 +22,15 @@
 
 ### 📊 Skill Overview
 
-| Language     | Level        | Progress         |
-|--------------|--------------|------------------|
-| ☕ Java       | Advanced     | ██████████ 90%   |
-| 🧠 C++        | Intermediate | ████████░░ 75%   |
-| 🧮 C          | Basic        | █████░░░░░ 50%   |
-| 🌐 HTML       | Advanced     | █████████░ 85%   |
-| 🎨 CSS        | Intermediate | ███████░░░ 70%   |
-| 📜 JavaScript | Intermediate | ███████░░░ 70%   |
-| 🌱 Node.js    | Beginner     | ████░░░░░░ 40%   |
+| Language      | Level        | Progress       |
+| ------------- | ------------ | -------------- |
+| ☕ Java        | Advanced     | ██████████ 90% |
+| 📊 DSA (Java) | Intermediate | ███████░░░ 70% |
+| 🧠 C++        | Intermediate | ████████░░ 75% |
+| 🌐 HTML       | Advanced     | █████████░ 85% |
+| 🎨 CSS        | Intermediate | ███████░░░ 70% |
+| 📜 JavaScript | Intermediate | ███████░░░ 70% |
+| 🌱 Node.js    | Beginner     | ██████░░░░ 60% |
 
 ---
 
@@ -53,15 +52,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadidayal&show_icons=true&theme=radical" alt="aadidayal GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadidayal&theme=radical" alt="aadidayal Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadidayal&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadidayal&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aadi-dayal-86733831a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -74,6 +73,6 @@
 
 ### 👀 Profile Views
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aadidayal&label=Profile%20views&color=0e75b6&style=flat" alt="aadidayal" />
 </p>
