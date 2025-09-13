@@ -61,7 +61,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadi-dayal-86733831a/" target="_blank">
+  <a href="[www.linkedin.com/in/aadidayal08084](https://www.linkedin.com/in/aadidayal08084/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Aadi_Dayal08/" target="_blank">
